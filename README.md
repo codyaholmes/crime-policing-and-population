@@ -2,7 +2,7 @@
 A collection of data to be used for comparing crime statistics and policing incidents by population groups against U.S. population distribution by race.
 
 ## Crime Data
-The FBI_UCR_2015-2018 csv file comprises of multiple tables from the FBI's Uniform Crime Reporting (UCR) website. I reorganized the source data in a format that is more conducive to visualization tools. I also excluded all ethnicity counts. Ethnicity counts were unreliable given that not all police departments report them, nor can they be related to measures of race unfortunately. This exclusion effectively means that Hispanic or Latino total arrests cannot be specified; however, Hispanic and Latino counts are included in the race classification of "White." Listed below are the source tables by year and url location:
+The FBI_UCR_2015-2018.csv file comprises of multiple tables from the FBI's Uniform Crime Reporting (UCR) website. I reorganized the source data in a format that is more conducive to visualization tools. I also excluded all ethnicity counts. Ethnicity counts were unreliable given that not all police departments report them, nor can they be related to measures of race unfortunately. This exclusion effectively means that Hispanic or Latino total arrests cannot be specified; however, Hispanic and Latino counts are included in the race classification of "White." Listed below are the source tables by year and url location:
 
 * [2015 Crime in the United States: Table 43A](https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/tables/table-43)
 * [2016 Crime in the United States: Table 21A](https://ucr.fbi.gov/crime-in-the-u.s/2016/crime-in-the-u.s.-2016/topic-pages/tables/table-21)
