@@ -19,5 +19,5 @@ The "USCB_ACS_Demographic_Housing_Estimates_2015-2018.csv" file combines total p
 * [2017: ACS 5-Year Estimates Data Profiles](https://data.census.gov/cedsci/table?d=ACS%205-Year%20Estimates%20Data%20Profiles&table=DP05&tid=ACSDP5Y2017.DP05&vintage=2016)
 * [2018: ACS 5-Year Estimates Data Profiles](https://data.census.gov/cedsci/table?d=ACS%205-Year%20Estimates%20Data%20Profiles&table=DP05&tid=ACSDP5Y2018.DP05&vintage=2016)
 
-## Police Incident Data
-The Washington Post's police incident reporting database can be found [here](https://github.com/washingtonpost/data-police-shootings/blob/master/fatal-police-shootings-data.csv).
+## Police Shooting Data
+The "WP_Fatal_Police_Shootings_2015-2018.csv" file is a static snapshot of the Washington Post-maintained database. I have included a snapshot of the years 2015-2018 so that apple-to-apple comparisons could be drawn with the other two datasets. The current Washinton Post dataset can be found [here](https://github.com/washingtonpost/data-police-shootings) with credits to the authors and maintainers. I have updated some of the attribute codes to their explicit meanings. The code of "W" for race, for example, was updated to "White", etc. The codes for race can also be found on the Washington Post GitHub page.
