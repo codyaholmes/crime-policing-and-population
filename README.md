@@ -30,4 +30,4 @@ I derived a formula, which I call the "Disparity Rate," that considers all three
 > cr = crime rate  
 > fps = fatal police shooting
 
-A negative disparity rate means that a targeted race is killed in fatal police shootings, considering the rate at which they commit crimes and their relative population distribution. A positive disparity rate means the exact opposite, and a rate of zero signifies no disparity.
+A negative disparity rate means that a targeted race is killed in fatal police shootings at higher rates in relation to the rate at which the race commits crimes and the race's relative population distribution. A positive disparity rate means the exact opposite, namely that a race is killed by police shootings at a lower rate in relation to the race's crime rate and population distribution. A rate of zero signifies no disparity.
