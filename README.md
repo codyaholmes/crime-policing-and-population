@@ -22,10 +22,12 @@ Additionally, the Washington Post dataset includes the race of *Hispanic* wherea
 To consider whether a race has a disparity of fatal police shootings, three elements are necessary for a completely contextual analysis. Those three elements are crime rates by race, fatal police shootings by race, and the U.S. population distribution by race, which is why I have provided the relevant data sources above.
 
 I derived a formula, which I call the "Disparity Rate," that considers all three elements:
+
 > #### Disparity Rate = Xpd - ( Xpd * ( Xcr / Xfps ) )
 > where...
 > X = target race
 > pd = populatoin distribution
 > cr = crime rate
 > fps = fatal police shooting
+
 A negative disparity rate means that a targeted race is killed in fatal police shootings, considering the rate at which they commit crimes and their relative population distribution. A positive disparity rate means the exact opposite, and a rate of zero signifies no disparity.
