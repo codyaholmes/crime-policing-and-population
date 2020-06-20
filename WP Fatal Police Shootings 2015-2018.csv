@@ -283,7 +283,7 @@ Year,ID,Name,Date,Manner of Death,Armed,Age,Gender,Race,City,State,Mental Illnes
 2015,366,Dante Noble,4/15/2015,shot,knife,41,M,Black,Spartanburg,SC,FALSE,attack,Not fleeing,FALSE
 2015,367,Frank Shephard,4/15/2015,shot,unarmed,41,M,Black,Houston,TX,FALSE,other,Car,FALSE
 2015,368,Mark W. Adair,4/15/2015,shot,toy weapon,51,M,White,Columbia,MO,FALSE,attack,Car,TRUE
-2015,369,Stanley Watson,4/15/2015,shot,gun,72,M,White,Cañon City,CO,TRUE,attack,Not fleeing,FALSE
+2015,369,Stanley Watson,4/15/2015,shot,gun,72,M,White,CaÃ±on City,CO,TRUE,attack,Not fleeing,FALSE
 2015,374,Ernesto Flores,4/15/2015,shot,toy weapon,52,M,Hispanic,Montclair,CA,TRUE,attack,Not fleeing,FALSE
 2015,373,Rodolfo Velazquez,4/16/2015,shot,knife,47,M,Hispanic,Shafter,CA,FALSE,other,Not fleeing,FALSE
 2015,380,Jeffrey Kemp,4/17/2015,shot,gun,18,M,Black,Chicago,IL,FALSE,attack,Foot,FALSE
