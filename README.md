@@ -34,10 +34,10 @@ I derived a formula, which I call the *Disparity Rate*, that considers all three
 
 A negative disparity rate means that a targeted race is killed in fatal police shootings at higher rates in relation to the rate at which the race commits crimes and their population distribution. A positive disparity rate means the exact opposite, namely that a race is killed by police shootings at a lower rate in relation to the race's crime rate and population distribution. A rate of zero signifies no disparity. For better context, consider the following examples:
 
-#### Positive Disparity Rates
+#### Positive Disparity Rate
 Let's suppose a race committed 10% of the crimes, and their U.S. population distribution was also 10%. Suppose that this race, however, consisted of 30% of fatal police shootings. Without any calculations, the disparity is obvious. The calculation would yield 6.7%: 10-10(10/30). Therefore, a positive number should be seen as a prevalent unfavorable disparity. The conclusion would follow, "The ratio of the race's crime rate to the number of their fatal police shootings is 6.7% higher than their national population distribution."
 
-#### Negative Disparity Rates
+#### Negative Disparity Rate
 Now let's suppose that a race committed 50% of the crimes in the U.S., and they make up only 25% of the population. Despite the their high rate of crimes, let's imagine that the race only made up 10% of fatal police shootings. Like the previous scenario, the disparity is obvious but obvious on the other spectrum. This disparity is favorable to the race. The disparity rate would yield a whopping -100%: 25-25(50/10). A negative number, then, should be seen as a favorable disparity. The conclusion would thus follow, "The ratio of this race's crime rate to the number of their fatal police shootings is 100% lower than their national population distribution."
 
 #### Zero Disparity Rate
