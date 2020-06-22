@@ -1,5 +1,5 @@
 # Crime-Policing-Population Analysis
-A collection of data to be used for comparing crime statistics and policing incidents by population groups against the U.S. population distribution by race.
+A collection of data to be used for comparing crime statistics and policing incidents by population groups against the U.S. population distribution by race. For comments, improvements, or general questions, please reach out to me via my [LinkedIn page](https://www.linkedin.com/in/cody-a-holmes/).
 
 ## Crime Data
 The **FBI UCR 2004-2018 data.csv** file comprises of multiple tables from the Federal Bureau of Investigation's (FBI) Uniform Crime Reporting (UCR) website. Specifically, the data consist of Table 43 (Total Arrests by Race and Ethnicity) by year except for the year 2016, which was labeled Table 21 for an unknown reason. The scope of Table 21 for 2016, nonetheless, is the exact same as the Table 43s of all other years. The FBI published the data via PDF before 2004, and thus I do not include it for difficulty of extraction.
@@ -42,3 +42,6 @@ Now let's suppose that a race committed 50% of the crimes in the U.S., and they 
 
 #### Zero Disparity Rate
 At this point, a disparity rate of zero should be obvious. If a race comprised 25% of the population, committed 25% of crimes, and was killed by police 25% of the time (relative to other races), then the disparity rate would yield 0%: 25-25(25/25).
+
+## Dashboard
+A live dashboard with the three sources of data with disparity rate calculations can be found [here](https://app.powerbigov.us/view?r=eyJrIjoiMmZlNzU0OGQtZjYxOC00Njg3LWI3ZjMtYjIwMmM2ZjVmMTdjIiwidCI6Ijg0NDRiZDJiLWFiM2EtNGQ2Yi1iYWMwLWE5NmZlNjJlOWQyYSJ9). The **Police Shooting Disparity Analysis.pbix** file is the Power BI source file, which possesses live connections to this repository of open use and validation. DAX calculations of the disparity rates can be explored in the source file as well. It should be noted that the only two comparable levels of granularity between the data sources are Race (or Population Group) and Year. The Washington Post, for example, has qualitative data by U.S. state, but states cannot be compared in the disparity calculations because the FBI and USCB datasets do not possess the granularity of state. The same applies to many of the other descriptive measures in the Washington Post dataset.
